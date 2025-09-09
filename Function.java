@@ -30,6 +30,7 @@ public class Function {
         // myMethod();//call the function
         // printName("Asif");//pass a parameter
         // System.out.print(printSum(34, 44)); //print the return type
+
         int factorial = calculateFactorial(n);
         System.out.print("Factorial of number :" + factorial);
 
