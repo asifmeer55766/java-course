@@ -61,20 +61,13 @@ To run any of the code, you'll need a Java Development Kit (JDK) installed on yo
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-
-Navigate to a specific problem's directory:
-
-cd your-repo-name/arrays
+git clone https://github.com/asifmeer55766/java-course
 
 Compile and run the Java file:
-
-javac YourFileName.java
-java YourFileName
 
 🤝 Let's Connect
 If you have any questions or suggestions, please feel free to reach out. I'd love to connect with fellow learners!
 
-GitHub: [Your GitHub Profile URL]
+GitHub: https://github.com/asifmeer55766
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: https://www.linkedin.com/in/asif-hussain-meer/
